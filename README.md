@@ -1,12 +1,12 @@
-# Neon Dodge Arena
+# Arène Néon
 
 **Esquivez les projectiles, survivez aux vagues et battez votre record.**
 
-Neon Dodge Arena est une arène d'esquive néon. Déplacez le vaisseau au clavier, à la souris ou au doigt, survivez aux vagues de projectiles et gagnez des points en restant en vie. Le mode ralenti se déclenche avec Espace, Maj ou un maintien tactile ; les niveaux s'enchaînent avec des objectifs croissants, des motifs de tir plus denses et des combos. Le record local est conservé dans le navigateur, le son et la musique sont synthétisés, et le plein écran est disponible.
+Arène Néon est une arène d'esquive néon. Déplacez le vaisseau au clavier, à la souris ou au doigt, survivez aux vagues de projectiles et gagnez des points en restant en vie. Le mode ralenti se déclenche avec Espace, Maj ou un maintien tactile ; les niveaux s'enchaînent avec des objectifs croissants, des motifs de tir plus denses et des combos. Le record local est conservé dans le navigateur, le son et la musique sont synthétisés, et le plein écran est disponible.
 
 Joue ici : [games.hylst.fr/neon-dodge-arena/](https://games.hylst.fr/neon-dodge-arena/)
 
-![Neon Dodge Arena](public/og-image.png)
+![Arène Néon](public/og-image.png)
 
 ## Fonctionnalités
 

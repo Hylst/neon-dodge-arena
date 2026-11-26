@@ -1007,8 +1007,8 @@ export default function App() {
       {/* Overlay attract */}
       {ui.mode === "attract" && (
         <div className="pointer-events-none absolute inset-0 flex flex-col items-center justify-center bg-black/25 text-center">
-          <h1 className="neon-text-cyan mb-1 text-5xl font-black tracking-tighter sm:text-8xl">NEON DODGE</h1>
-          <h2 className="neon-text-fuchsia mb-6 text-2xl font-black tracking-[0.5em] sm:text-4xl">ARENA</h2>
+          <h1 className="neon-text-cyan mb-1 text-5xl font-black tracking-tighter sm:text-8xl">ARÈNE</h1>
+          <h2 className="neon-text-fuchsia mb-6 text-2xl font-black tracking-[0.5em] sm:text-4xl">NÉON</h2>
           <div className="animate-pulse rounded-full border border-cyan-400/40 bg-cyan-950/40 px-5 py-2 text-sm font-bold tracking-widest text-cyan-300 backdrop-blur-sm">
             MODE DÉMO
           </div>

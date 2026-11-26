@@ -25,7 +25,7 @@
     "vite": "7.3.2",
     "vite-plugin-singlefile": "2.3.0"
   },
-  "description": "Neon Dodge Arena : esquive arcade neon, vagues, niveaux progressifs et record local. Clavier ou tactile.",
+  "description": "Arène Néon : esquive arcade neon, vagues, niveaux progressifs et record local. Clavier ou tactile.",
   "license": "AGPL-3.0-or-later",
   "author": "Geoffroy (Hylst)"
 }
