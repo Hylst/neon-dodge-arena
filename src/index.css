@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: "Orbitron", sans-serif;
+    background: #030308;
+  }
+}
+
+@layer utilities {
+  .neon-text-cyan {
+    text-shadow:
+      0 0 8px rgba(34, 211, 238, 0.9),
+      0 0 18px rgba(34, 211, 238, 0.6);
+  }
+  .neon-text-fuchsia {
+    text-shadow:
+      0 0 8px rgba(232, 121, 249, 0.9),
+      0 0 18px rgba(232, 121, 249, 0.6);
+  }
+}
